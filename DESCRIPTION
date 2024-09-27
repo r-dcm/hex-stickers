@@ -1,0 +1,18 @@
+Package: rdcm-hex
+Title: Automatic 
+Version: 0.0.0.9000
+Authors@R: c(
+    person("W. Jake", "Thompson", , "wjakethompson@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-7339-0300")),
+    person("Institute of Education Sciences", role = "fnd"),
+    person("Accessible Teaching, Learning, and Assessment Systems", role = "fnd"),
+    person("University of Kansas", role = c("cph"))
+  )
+Description: What the package does (one paragraph).
+License: CC0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    magick,
+    rmarkdown
