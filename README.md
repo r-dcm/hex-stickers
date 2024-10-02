@@ -2,16 +2,14 @@
 # r-dcm hex stickers
 
 <table>
-
 <tr>
-
 <td>
-
+<img alt="Logo for r-dcm" src="thumbs/r-dcm.png" width="120" height="139"><br /><a href="png-hires/r-dcm.png">r-dcm.png</a><br /><a href="svg/r-dcm.svg">r-dcm.svg</a>
+</td>
+<td>
 <img alt="Logo for rdcmtemplate" src="thumbs/rdcmtemplate.png" width="120" height="139"><br /><a href="png-hires/rdcmtemplate.png">rdcmtemplate.png</a><br /><a href="svg/rdcmtemplate.svg">rdcmtemplate.svg</a>
 </td>
-
 </tr>
-
 </table>
 
 All stickers are licensed [CC0](LICENSE.md).
