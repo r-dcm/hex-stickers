@@ -4,6 +4,9 @@
 <table>
 <tr>
 <td>
+<img alt="Logo for dcmstan" src="thumbs/dcmstan.png" width="120" height="139"><br /><a href="png-hires/dcmstan.png">dcmstan.png</a><br /><a href="svg/dcmstan.svg">dcmstan.svg</a>
+</td>
+<td>
 <img alt="Logo for r-dcm" src="thumbs/r-dcm.png" width="120" height="139"><br /><a href="png-hires/r-dcm.png">r-dcm.png</a><br /><a href="svg/r-dcm.svg">r-dcm.svg</a>
 </td>
 <td>

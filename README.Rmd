@@ -38,7 +38,7 @@ cat(paste0("<tr>", sapply(row_cells, paste, collapse = ""), "</tr>"), sep = "")
 cat("</table>\n")
 ```
 
-All stickers are licensed [CC0](LICENSE.md).
+All stickers are licensed [CC0](LICENSE.md). 
 
 ## Printing
 
