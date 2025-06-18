@@ -29,13 +29,7 @@ extract_dot_locations <- function(p) {
 }
 
 # create plot ------------------------------------------------------------------
-set.seed(3267826)
-# tibble(x = rchisq(500, df = 10)) |>
-#   ggplot(aes(x = x)) +
-#   geom_dots(layout = "hex", shape = "\u2B22", dotsize = 1.5,
-#             color = "#8ecae6") -> p
-
-tibble(x = rbeta(600, 5, 25)) |>
+tibble(x = rbeta(300, 5, 25)) |>
   ggplot(aes(x = x)) +
   geom_dots(layout = "hex") -> p
 
@@ -43,7 +37,7 @@ point_data <- extract_dot_locations(p)
 
 point_data |>
   ggplot(aes(x = x, y = y)) +
-  ggstar::geom_star(starshape = 6, size = 7, color = "#83cae6",
+  ggstar::geom_star(starshape = 6, size = 10, color = "#83cae6",
                     fill = "#8ecae6") +
   theme_void() -> new_p
 
@@ -52,5 +46,5 @@ new_p +
 
 
 
-ggsave("dcmstan-dist.svg", plot = new_p, path = here("R", "img"),
+ggsave("dcmstan-dist2.svg", plot = new_p, path = here("R", "img"),
        width = 20, height = 8, units = "in", dpi = 320)
