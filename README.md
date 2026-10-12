@@ -2,28 +2,50 @@
 # r-dcm hex stickers
 
 <table>
+
 <tr>
+
 <td>
+
 <img alt="Logo for dcmdata" src="thumbs/dcmdata.png" width="120" height="139"><br /><a href="png-hires/dcmdata.png">dcmdata.png</a><br /><a href="svg/dcmdata.svg">dcmdata.svg</a>
 </td>
+
 <td>
+
 <img alt="Logo for dcmstan" src="thumbs/dcmstan.png" width="120" height="139"><br /><a href="png-hires/dcmstan.png">dcmstan.png</a><br /><a href="svg/dcmstan.svg">dcmstan.svg</a>
 </td>
+
 <td>
+
 <img alt="Logo for measr" src="thumbs/measr.png" width="120" height="139"><br /><a href="png-hires/measr.png">measr.png</a><br /><a href="svg/measr.svg">measr.svg</a>
 </td>
+
 <td>
+
 <img alt="Logo for r-dcm" src="thumbs/r-dcm.png" width="120" height="139"><br /><a href="png-hires/r-dcm.png">r-dcm.png</a><br /><a href="svg/r-dcm.svg">r-dcm.svg</a>
 </td>
+
 <td>
+
 <img alt="Logo for rdcmchecks" src="thumbs/rdcmchecks.png" width="120" height="139"><br /><a href="png-hires/rdcmchecks.png">rdcmchecks.png</a><br /><a href="svg/rdcmchecks.svg">rdcmchecks.svg</a>
 </td>
+
 </tr>
+
 <tr>
+
 <td>
+
 <img alt="Logo for rdcmtemplate" src="thumbs/rdcmtemplate.png" width="120" height="139"><br /><a href="png-hires/rdcmtemplate.png">rdcmtemplate.png</a><br /><a href="svg/rdcmtemplate.svg">rdcmtemplate.svg</a>
 </td>
+
+<td>
+
+<img alt="Logo for thresholdr" src="thumbs/thresholdr.png" width="120" height="139"><br /><a href="png-hires/thresholdr.png">thresholdr.png</a><br /><a href="svg/thresholdr.svg">thresholdr.svg</a>
+</td>
+
 </tr>
+
 </table>
 
 All stickers are licensed [CC0](LICENSE.md).
